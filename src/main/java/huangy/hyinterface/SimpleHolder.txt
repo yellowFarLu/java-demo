@@ -1,0 +1,7 @@
+Compiled from "SimpleHolder.java"
+public class hyinterface.SimpleHolder {
+  public hyinterface.SimpleHolder();
+  public void setObj(java.lang.Object);
+  public java.lang.Object getObj();
+  public static void main(java.lang.String[]);
+}

@@ -1,0 +1,7 @@
+Compiled from "GenericHolder.java"
+public class hyinterface.GenericHolder<T> {
+  public hyinterface.GenericHolder();
+  public void set(T);
+  public T getObj();
+  public static void main(java.lang.String[]);
+}

@@ -1,0 +1,16 @@
+package huangy.head_first.decorator_pattern;
+
+/**
+ * @author huangy on 2019-05-19
+ */
+public class HouseBlend extends Beverage {
+
+    public HouseBlend() {
+        description = "HouseBlend";
+    }
+
+    @Override
+    public double cost() {
+        return 0.89;
+    }
+}
